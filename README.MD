@@ -66,4 +66,12 @@ _"E no quarto coloque sobre uma notícia global sobre tecnologia que engloba as 
 - Imagem de capa criada com IA
 - Estrutura de repositório organizada para projetos futuros
 
+## 🎧 Onde ouvir o podcast
+
+O episódio do **Zerou o Algoritmo com o Nando Nerd** já está disponível no YouTube!  
+Clique no link abaixo para assistir e se divertir com as curiosidades sobre IA:
+
+[Ouça o podcast no YouTube](https://youtu.be/B3JL6dh4O6I?si=Q5wr_85TYiRingq0)
+
+
 ## 📂 Estrutura do repositório
